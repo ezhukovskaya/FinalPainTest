@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<testConf>
+  <appId>C:\Windows\System32\mspaint.exe</appId>
+  <pcHost>http://127.0.0.1:4723</pcHost>
+  <implicitWait>1</implicitWait>
+</testConf>
+
